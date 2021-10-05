@@ -6,5 +6,5 @@
 int main(void)
 {
     string s = get_string("What's your name?\n");
-    printf("hello, %s\n", s);
+    printf("hello, %s\n", s); // privet Sasha
 }
